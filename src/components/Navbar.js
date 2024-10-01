@@ -6,12 +6,12 @@ const Navbar = () => {
  
     const printPDF = () => {
       let pdfUrl = '';
+      
       if (selectedLanguage === 'de') {
-        pdfUrl = '/cv-de.pdf';
+        pdfUrl = '/cv/cv-de.pdf';
       } else {
-        pdfUrl = '/cv-en.pdf';
-      }
-   
+        pdfUrl = '/cv/cv-en.pdf';
+      } 
       window.open(pdfUrl, '_blank');
     };
 
@@ -25,7 +25,7 @@ const Navbar = () => {
      
         const link = document.createElement('a');
         link.href = pdfUrl;
-        link.setAttribute('download', pdfUrl.split('/').pop()); 
+        link.setAttribute('download', pdfUrl.split('/').pop());  
     
         document.body.appendChild(link);
         link.click();

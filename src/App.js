@@ -15,9 +15,7 @@ function App() {
     <div className="App">
       <div className="container-fluid">
         <div className="row justify-content-center">
-          <div className='col-12'> 
-            <Navbar/> 
-          </div>
+          <Navbar/>  
           <div className="col-12 text-center">
             <Header />
           </div>
