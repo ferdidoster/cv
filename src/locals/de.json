@@ -1,0 +1,144 @@
+{
+    "titles": {
+        "exp": "Arbeitserfahrung",
+        "about": "Persönliches",
+        "skills": "Kompetenzen",
+        "education": "Weiterbildungen",
+        "language": "Sprachen"
+    },
+    "header": {
+        "title": "Ferdinand Doster",
+        "subtitle": "Softwareentwickler"
+    },
+    "experience": {
+        "jobs": [
+            {
+                "company": "Schmelzer Medien",
+                "position": "Software Developer",
+                "startDate": "September 2021",
+                "endDate": "Oktober 2024",
+                "location": "Siegen, Deutschland",
+                "responsibilities": [
+                    "Entwicklung moderner, responsive Webseiten mit HTML, CSS, JavaScript und Fluid für das CMS TYPO3",
+                    "Enge Zusammenarbeit mit Design- und Entwicklungsteams",
+                    "Vertiefung von Fähigkeiten in Webentwicklung, Projektmanagement und UX-Optimierung"
+                ]
+            },
+            {
+                "company": "Freelance",
+                "position": "Web Developer",
+                "startDate": "März 2018",
+                "endDate": "März 2019",
+                "location": "Hamburg, Deutschland",
+                "responsibilities": [
+                    "Designed, continously developed und maintained web pages, plugins und business logic." 
+                ]
+            },
+            {
+                "company": "upwork.com/fiverr.com, Freelance",
+                "position": "Game Developer",
+                "startDate": "2015",
+                "endDate": "März 2018",
+                "location": "Kaiserslautern, Deutschland",
+                "responsibilities": [
+                    "Gemeinsam mit dem Kunden für Projekte Akzeptanzkriterien entwickelt.",
+                    "Prototyp Entwicklung basierend auf dem Design und den Ideen des Kunden.",
+                    "Kontinuirliche Verbesserung von Prototypen in eigenständige Spiele." 
+                ]
+            }
+        ]
+    },
+    "about": {      
+        "aboutData": [
+            {
+                "title": "Name",
+                "answer": "Ferdinand Doster"
+            },
+            {
+                "title": "Addresse",
+                "answer": "Am Tredenberg 2 57080 Oberschelden"
+            }, 
+            {
+                "title": "Telefonnummer",
+                "answer": "+49 179 4221627"
+            },
+            {
+                "title": "Geburtsdatum",
+                "answer": "11.11.1989"
+            },
+            {
+                "title": "Nationalität",
+                "answer": "Deutsch"
+            },
+            {
+                "title": "E-mail",
+                "answer": "ferdiedoster@gmail.com"
+            }
+        ]
+    },
+
+    "skills":{
+        "skillset":[
+            {
+                "title": "HTML",
+                "progress" : "90"
+            },
+            {
+                "title": "Javascript",
+                "progress" : "60"
+            },
+            {
+                "title": "CSS",
+                "progress" : "90"
+            },
+            {
+                "title": "Twig",
+                "progress" : "60"
+            },
+            {
+                "title": "C#",
+                "progress" : "50"
+            },
+            {
+                "title": "PHP",
+                "progress" : "50"
+            },
+            {
+                "title": "Python",
+                "progress" : "20"
+            },
+            {
+                "title": "Shopware",
+                "progress" : "50"
+            },
+            {
+                "title": "Typo3",
+                "progress" : "60"
+            }
+        ]
+    },
+    "education":{
+        "educator":[
+            {
+              "title": "Jamstack Conf 2020",
+              "where": "Online, jamstackconf.com",
+              "when": "2020"
+            },
+            {
+              "title": "Python Crashcourse",
+              "where": "Google, Coursera",
+              "when": "2019"
+            },
+            {
+              "title": "10th JSConf",
+              "where": "Berlin, Deutschland",
+              "when": "2019"
+            },
+            {
+              "title": "RuhrJS 2019",
+              "where": "Bochum, Deutschland",
+              "when": "2019"
+            }
+          ]
+      }
+}

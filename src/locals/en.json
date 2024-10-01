@@ -1,0 +1,146 @@
+{
+    "titles": {
+      "exp": "Experience",
+      "about": "About me",
+      "skills": "Skills",
+      "education": "Education",
+      "language": "Languages"
+    },
+    "header": {
+      "title": "Ferdinand Doster",
+      "subtitle": "Software Developer"
+    },
+    "experience": {
+      "jobs": [
+        {
+          "company": "Schmelzer Medien",
+          "position": "Software Developer",
+          "startDate": "September 2021",
+          "endDate": "October 2024",
+          "location": "Siegen, Deutschland",
+          "responsibilities": [
+            "Development of modern, responsive websites with HTML, CSS, JavaScript and Fluid for the CMS TYPO3",
+            "Close collaboration with design and development teams",
+            "Deepening skills in web development, project management and UX optimization"
+          ]
+        },
+        {
+            "company": "Freelance",
+            "position": "Web Developer",
+            "startDate": "March 2018",
+            "endDate": "March 2019",
+            "location": "Hamburg, Germany",
+            "responsibilities": [
+                "Design, continuous development and maintenance of websites, plugins and business logic." 
+            ]
+        },
+        {
+            "company": "upwork.com/fiverr.com, Freelance",
+            "position": "Game Developer",
+            "startDate": "2015",
+            "endDate": "March 2018",
+            "location": "Kaiserslautern, Germany",
+            "responsibilities": [                
+              "Developed acceptance criteria for projects together with the customer.",
+              "Prototype development based on the client's design and ideas.",
+              "Continuous improvement of prototypes into stand-alone games." 
+            ]
+        }
+      ]
+    },
+    "about": {      
+      "aboutData": [
+        {
+          "title": "Name",
+          "answer": "Ferdinand Doster"
+        },
+        {
+          "title": "Address",
+          "answer": "Am Tredenberg 2 57080 Oberschelden"
+        }, 
+        {
+          "title": "Phone",
+          "answer": "+49 179 4221627"
+        },
+        {
+          "title": "Birthdate",
+          "answer": "11.11.1989"
+        },
+        {
+          "title": "Nationality",
+          "answer": "German"
+        },
+        {
+          "title": "E-mail",
+          "answer": "ferdiedoster@gmail.com"
+        }
+      ]
+    },
+    
+    "skills":{
+      "skillset":[
+        {
+            "title": "HTML",
+            "progress" : "90"
+        },
+        {
+            "title": "Javascript",
+            "progress" : "60"
+        },
+        {
+            "title": "CSS",
+            "progress" : "90"
+        },
+        {
+            "title": "Twig",
+            "progress" : "60"
+        },
+        {
+            "title": "C#",
+            "progress" : "50"
+        },
+        {
+            "title": "PHP",
+            "progress" : "50"
+        },
+        {
+            "title": "Python",
+            "progress" : "20"
+        },
+        {
+            "title": "Shopware",
+            "progress" : "50"
+        },
+        {
+            "title": "Typo3",
+            "progress" : "60"
+        }
+      ]
+    },
+
+    "education":{
+      "educator":[
+        {
+          "title": "Jamstack Conf 2020",
+          "where": "Online, jamstackconf.com",
+          "when": "2020"
+        },
+        {
+          "title": "Python Crashcourse",
+          "where": "Google, Coursera",
+          "when": "2019"
+        },
+        {
+          "title": "10th JSConf",
+          "where": "Berlin, Germany",
+          "when": "2019"
+        },
+        {
+          "title": "RuhrJS 2019",
+          "where": "Bochum, Germany",
+          "when": "2019"
+        }
+      ]
+    }
+  }
+  
